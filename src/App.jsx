@@ -4,6 +4,7 @@ import { Route, Routes } from "react-router-dom"
 import Ebooks from './ebook/Ebooks'
 import About from './about/About'
 import Contact from './contact/Contact'
+import Signup from './component/Signup'
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
     <Route path='/ebook' element={<Ebooks/>}></Route>
     <Route path='/about' element={<About/>}></Route>
     <Route path='/contact' element={<Contact/>}></Route>
+    <Route path='/signup' element={<Signup/>}></Route>
     </Routes>
    </div>
    </>
