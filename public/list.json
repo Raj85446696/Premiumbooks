@@ -1,42 +1,164 @@
 [
     {
         "id":1,
-        "name":"Story Book",
-        "title":"Hy bro",
+        "name":"Atomic Habits",
+        "title":"James Clear",
         "Price":9,
         "Category":"Free",
-        "image":"https://img.freepik.com/free-vector/programming-concept-template-banner-flyer-with-isometric-style-vector_82472-741.jpg?t=st=1727867302~exp=1727870902~hmac=d7dfb0c0c2fb3349efe6843e70a7b8a75e308ece2272fea327ecdebdce6a8adf&w=360"
+        "image":"https://cdn2.penguin.com.au/covers/original/9781473565425.jpg",
+        "pdfUrl":"https://www.pdfdrive.to/dl/atomic-habits-james-clear"
     },
     {
         "id":2,
-        "name":"Comdedy Book",
-        "title":"new",
+        "name":"RichDad PoorDad",
+        "title":"Robert T. Kiyosaki",
         "Price":0,
         "Category":"Free",
-        "image":"https://img.freepik.com/free-vector/programming-concept-template-banner-flyer-with-isometric-style-vector_82472-741.jpg?t=st=1727867302~exp=1727870902~hmac=d7dfb0c0c2fb3349efe6843e70a7b8a75e308ece2272fea327ecdebdce6a8adf&w=360"
+        "image":"https://i.pinimg.com/originals/c6/8c/4f/c68c4fd6b97cb17cd3d36f38880565c5.jpg",
+        "pdfUrl":"https://www.pdfdrive.to/dl/rich-dad-poor-dad-pdf"
     },
     {
         "id":3,
-        "name":"Idle Book",
-        "title":"Hyi",
+        "name":"BetterThan theMovies",
+        "title":"Lynn Painter",
         "Price":0,
         "Category":"Free",
-        "image":"https://img.freepik.com/free-vector/programming-concept-template-banner-flyer-with-isometric-style-vector_82472-741.jpg?t=st=1727867302~exp=1727870902~hmac=d7dfb0c0c2fb3349efe6843e70a7b8a75e308ece2272fea327ecdebdce6a8adf&w=360"
+        "image":"https://tse4.mm.bing.net/th?id=OIP.nabf5qMN63x-rY8csQRvPgAAAA&pid=Api&P=0&h=180",
+        "pdfUrl":"https://www.pdfdrive.to/dl/better-than-the-movies"
     },
     {
         "id":4,
-        "name":"Sports Book",
-        "title":"Hy9bro",
+        "name":"Haunting Adeline",
+        "title":"H. D. Carlton",
         "Price":0,
         "Category":"Free",
-        "image":"https://img.freepik.com/free-vector/programming-concept-template-banner-flyer-with-isometric-style-vector_82472-741.jpg?t=st=1727867302~exp=1727870902~hmac=d7dfb0c0c2fb3349efe6843e70a7b8a75e308ece2272fea327ecdebdce6a8adf&w=360"
+        "image":"https://imagessl0.casadellibro.com/a/l/t7/90/9788419421890.jpg",
+        "pdfUrl":"https://www.pdfdrive.to/book/haunting-adeline-1"
     },
     {
         "id":5,
-        "name":"manner Book",
-        "title":"Hyro",
+        "name":"The 48 Laws of Power",
+        "title":"Robert Greene",
         "Price":0,
         "Category":"Free",
-        "image":"https://img.freepik.com/free-vector/programming-concept-template-banner-flyer-with-isometric-style-vector_82472-741.jpg?t=st=1727867302~exp=1727870902~hmac=d7dfb0c0c2fb3349efe6843e70a7b8a75e308ece2272fea327ecdebdce6a8adf&w=360"
+        "image":"https://www.oketab.com/media/catalog/product/md_388f7_39.jpg",
+        "pdfUrl":"https://www.pdfdrive.to/dl/the-48-laws-of-power-6"
+    },
+    {
+        "id":6,
+        "name":"$100m Offers",
+        "title":"Alex Hormozi",
+        "Price":0,
+        "Category":"Free",
+        "image":"https://wisewords.blog/wp-content/uploads/2022/10/615OzK4ckZL.jpeg",
+        "pdfUrl":"https://pdfdrive.to/book/100m-offers"
+    },
+    {
+        "id":1,
+        "name":"Atomic Habits",
+        "title":"James Clear",
+        "Price":9,
+        "Category":"Free",
+        "image":"https://cdn2.penguin.com.au/covers/original/9781473565425.jpg",
+        "pdfUrl":"https://www.pdfdrive.to/dl/atomic-habits-james-clear"
+    },
+    {
+        "id":2,
+        "name":"RichDad PoorDad",
+        "title":"Robert T. Kiyosaki",
+        "Price":0,
+        "Category":"Free",
+        "image":"https://i.pinimg.com/originals/c6/8c/4f/c68c4fd6b97cb17cd3d36f38880565c5.jpg",
+        "pdfUrl":"https://www.pdfdrive.to/dl/rich-dad-poor-dad-pdf"
+    },
+    {
+        "id":3,
+        "name":"BetterThan theMovies",
+        "title":"Lynn Painter",
+        "Price":0,
+        "Category":"Free",
+        "image":"https://tse4.mm.bing.net/th?id=OIP.nabf5qMN63x-rY8csQRvPgAAAA&pid=Api&P=0&h=180",
+        "pdfUrl":"https://www.pdfdrive.to/dl/better-than-the-movies"
+    },
+    {
+        "id":4,
+        "name":"Haunting Adeline",
+        "title":"H. D. Carlton",
+        "Price":0,
+        "Category":"Free",
+        "image":"https://imagessl0.casadellibro.com/a/l/t7/90/9788419421890.jpg",
+        "pdfUrl":"https://www.pdfdrive.to/book/haunting-adeline-1"
+    },
+    {
+        "id":5,
+        "name":"The 48 Laws of Power",
+        "title":"Robert Greene",
+        "Price":0,
+        "Category":"Free",
+        "image":"https://www.oketab.com/media/catalog/product/md_388f7_39.jpg",
+        "pdfUrl":"https://www.pdfdrive.to/dl/the-48-laws-of-power-6"
+    },
+    {
+        "id":6,
+        "name":"$100m Offers",
+        "title":"Alex Hormozi",
+        "Price":0,
+        "Category":"Free",
+        "image":"https://wisewords.blog/wp-content/uploads/2022/10/615OzK4ckZL.jpeg",
+        "pdfUrl":"https://pdfdrive.to/book/100m-offers"
+    },
+    {
+        "id":1,
+        "name":"Atomic Habits",
+        "title":"James Clear",
+        "Price":9,
+        "Category":"Free",
+        "image":"https://cdn2.penguin.com.au/covers/original/9781473565425.jpg",
+        "pdfUrl":"https://www.pdfdrive.to/dl/atomic-habits-james-clear"
+    },
+    {
+        "id":2,
+        "name":"RichDad PoorDad",
+        "title":"Robert T. Kiyosaki",
+        "Price":0,
+        "Category":"Free",
+        "image":"https://i.pinimg.com/originals/c6/8c/4f/c68c4fd6b97cb17cd3d36f38880565c5.jpg",
+        "pdfUrl":"https://www.pdfdrive.to/dl/rich-dad-poor-dad-pdf"
+    },
+    {
+        "id":3,
+        "name":"BetterThan theMovies",
+        "title":"Lynn Painter",
+        "Price":0,
+        "Category":"Free",
+        "image":"https://tse4.mm.bing.net/th?id=OIP.nabf5qMN63x-rY8csQRvPgAAAA&pid=Api&P=0&h=180",
+        "pdfUrl":"https://www.pdfdrive.to/dl/better-than-the-movies"
+    },
+    {
+        "id":4,
+        "name":"Haunting Adeline",
+        "title":"H. D. Carlton",
+        "Price":0,
+        "Category":"Free",
+        "image":"https://imagessl0.casadellibro.com/a/l/t7/90/9788419421890.jpg",
+        "pdfUrl":"https://www.pdfdrive.to/book/haunting-adeline-1"
+    },
+    {
+        "id":5,
+        "name":"The 48 Laws of Power",
+        "title":"Robert Greene",
+        "Price":0,
+        "Category":"Free",
+        "image":"https://www.oketab.com/media/catalog/product/md_388f7_39.jpg",
+        "pdfUrl":"https://www.pdfdrive.to/dl/the-48-laws-of-power-6"
+    },
+    {
+        "id":6,
+        "name":"$100m Offers",
+        "title":"Alex Hormozi",
+        "Price":0,
+        "Category":"Free",
+        "image":"https://wisewords.blog/wp-content/uploads/2022/10/615OzK4ckZL.jpeg",
+        "pdfUrl":"https://pdfdrive.to/book/100m-offers"
     }
-]
+] 
