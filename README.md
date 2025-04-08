@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 Live
 
 
-{{premiumbooks-mbl6ynl4o-raj85446696s-projects.vercel.app}}
+[{{Ebook}}](premiumbooks-mbl6ynl4o-raj85446696s-projects.vercel.app)
